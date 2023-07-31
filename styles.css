@@ -253,14 +253,16 @@ aside i {
 
 .client-icons {
     text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 50px;
 }
 
-.client-icons i {
+.client-icons p {
     color: #407899;
     display: inline-block;
-    margin: 10px 15px;
-    font-size: 75px;
-    opacity: 0.2;
+    margin: 10px 20px;
+    opacity: 0.4;
 }
 
 section#about-section p {
